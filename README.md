@@ -2,6 +2,8 @@
 
 A real Konsole melted into your KDE Plasma wallpaper — no widget, no hack, just a blinking cursor always ready on your desktop.
 
+![DeskTerm on a KDE Plasma desktop](assets/screenshot.png)
+
 It's a regular Konsole window pinned to the desktop by a KWin rule: borderless, always below other windows, hidden from the taskbar and Alt+Tab, with a fixed position and size. When its background matches the wallpaper, the window simply disappears and only the prompt is left floating.
 
 ## Requirements
